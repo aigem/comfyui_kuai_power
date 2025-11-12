@@ -2,6 +2,12 @@
 
 ComfyUI 节点扩展，提供 Sora2 视频生成和脚本生成功能。
 
+> ### 低格稳定 Sora2 API https://api.kuai.host/register?aff=z2C8
+
+> #### sora2国内直接用 https://v.kuai.host/
+
+> 视频教程 https://www.bilibili.com/video/BV1umCjBqEpt/
+
 ## 快速开始
 
 ### 1. 安装依赖
